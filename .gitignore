@@ -1,0 +1,6 @@
+# VIM-Swapfiles
+*.swp
+*.swo
+
+# Experimentational Directory
+exp/
