@@ -1,3 +1,5 @@
+[back](topics.md) [next](#)
+
 # Variables
 
 In Csound there are diffrent types of [variables](http://www.csounds.com/manual/html/OrchKvar.html)
