@@ -1,5 +1,7 @@
 # Csound Tutorials
 
+[Topics](topics/topics.md)
+
 ## Resources
 
 * [Csound Manual](http://www.csounds.com/manual/html/)
